@@ -1,0 +1,83 @@
+[
+  {
+    "company": "NMGR",
+    "event": "vclot",
+    "startLabel": "wk1",
+    "endLabel": "wk6",
+    "milestoneDate": "2022-01-16",
+    "startDate": "2022-01-1",
+    "endDate": "2022-02-26",
+    "color": "#ddd"
+  },
+  {
+    "company": "NMGR",
+    "event": "pt1",
+    "startLabel": "wk8",
+    "endLabel": "wk16",
+    "milestoneDate": "2022-03-15",
+    "startDate": "2022-02-29",
+    "endDate": "2022-05-18",
+    "color": "#ddd"
+
+  },
+  {
+    "company": "NMGR",
+    "event": "pt2",
+    "startLabel": "wk8",
+    "endLabel": "wk16",
+    "milestoneDate": "2022-06-29",
+    "startDate": "2022-05-29",
+    "endDate": "2022-07-4",
+    "color": "#ddd"
+  },
+  {
+    "company": "NMGR",
+    "event": "sop",
+    "startLabel": "wk29",
+    "endLabel": "wk29",
+    "milestoneDate": "2022-10-9",
+    "startDate": "2022-10-11",
+    "endDate": "2022-10-18",
+    "color": "#ddd"
+  },
+  {
+    "company": "NMUK",
+    "event": "vclot",
+    "startLabel": "wk1",
+    "endLabel": "wk6",
+    "milestoneDate": "2022-02-27",
+    "startDate": "2022-01-27",
+    "endDate": "2022-04-7",
+    "color": "#add"
+  },
+  {
+    "company": "NMUK",
+    "event": "pt1",
+    "startLabel": "wk8",
+    "endLabel": "wk16",
+    "milestoneDate": "2022-05-24",
+    "startDate": "2022-04-21",
+    "endDate": "2022-06-17",
+    "color": "#add"
+  },
+  {
+    "company": "NMUK",
+    "event": "pt2",
+    "startLabel": "wk8",
+    "endLabel": "wk16",
+    "milestoneDate": "2022-07-24",
+    "startDate": "2022-06-28",
+    "endDate": "2022-08-20",
+    "color": "#add"
+  },
+  {
+    "company": "NMUK",
+    "event": "sop",
+    "startLabel": "wk34",
+    "endLabel": "wk34",
+    "milestoneDate": "2022-10-21",
+    "startDate": "2022-10-25",
+    "endDate": "2022-11-1",
+    "color": "#add"
+  }
+]

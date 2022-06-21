@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Denso UK - Telford",
+    "lat": 17.60009765625,
+    "lon": 52.8691297276852,
+    "risk": "red",
+    "pending": 5,
+    "received": 8,
+    "overdue": 0,
+    "approved": 5,
+    "rejected": 0
+  },
+  {
+    "name": "Denso Spain - Vigo",
+    "lat": 18.25927734375,
+    "lon": 48.821332549646634,
+    "risk": "green",
+    "pending": 10,
+    "received": 1,
+    "overdue": 9,
+    "approved": 2,
+    "rejected": 4
+
+  },
+  {
+    "name": "Denso italy - Turin",
+    "lat": 12.85400390625,
+    "lon": 50.45750402042058,
+    "risk": "yellow",
+    "pending": 7,
+    "received": 3,
+    "overdue": 2,
+    "approved": 8,
+    "rejected": 2
+  }
+]
